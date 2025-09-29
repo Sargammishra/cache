@@ -1,6 +1,6 @@
 spring:
   data:
     redis:
-      host: ${REDIS_HOST:localhost}
-      port: ${REDIS_PORT:6379}
+      host: ${REDIS_HOST:localhostpqr}
+      port: ${REDIS_PORT:0000}
       timeout: 2000
